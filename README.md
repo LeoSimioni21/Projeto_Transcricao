@@ -1,6 +1,6 @@
 # Projeto_Transcricao
-Projeto para transcrever audios utilizando a Api da OpenAi
-Este projeto permite enviar arquivos de áudio (ex: `.mp3`) via API e obter a transcrição usando a API Whisper da OpenAI. As transcrições são salvas em um banco de dados SQL Server.
+Projeto para transcrever audios utilizando a Api da OpenAi,
+este projeto permite enviar arquivos de áudio (ex: `.mp3`) via API e obter a transcrição usando a API Whisper da OpenAI. As transcrições são salvas em um banco de dados SQL Server.
 
 Funcionalidades
 
